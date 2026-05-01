@@ -146,7 +146,7 @@ Feel free to fork this repository and improve the project.
 
 📌 Conclusion
 
-This project demonstrates:
+This project demonstrates the following:
 
 Machine Learning pipeline
 Backend API integration
